@@ -1,0 +1,14 @@
+<?php /*------CHANGE LOGO FOR FOUNDATION SECTION------*/ 
+
+if (is_page(array(154,157,198)) || is_category( '5' )) { ?>
+<style type="text/css" media="all">
+.custom-logo {
+background: url("http://www.kchponline.com/wp-content/uploads/2013/11/kchp-fnd-logo-small.gif") no-repeat !important;
+width: 244px;
+height: 63px;
+background-size: contain;
+display: block;
+}
+</style>
+
+<?php } ?>
