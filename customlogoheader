@@ -3,9 +3,7 @@
 if (is_page(array(154,)) || is_category( '3' )) { ?>
 <style type="text/css" media="all">
 .custom-logo {
-background: url("http://www.kchponline.com/wp-content/uploads/2013/11/kchp-fnd-logo-small.gif") no-repeat !important;
-width: 244px;
-height: 63px;
+background: url("http://cenisol.com/wp-content/uploads/2014/01/cis_decks_logo400px-e1391099837329.png") no-repeat !important;
 background-size: contain;
 display: block;
 }
